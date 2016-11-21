@@ -1,0 +1,113 @@
+*{margin: 0; padding:0;}
+header{
+    height: 220px;
+    width: 850px;
+    background:#72c0cd;
+    overflow: hidden;
+    margin:0 auto;
+}
+header>div{
+     margin:30px 40px;
+     float: left;
+}
+.zuo{
+    height: 160px;
+    width: 140px;
+    background:white;
+    margin-left:90px;
+}
+.zhong{
+    height: 160px;
+    width: 200px;
+    margin-left:60px;
+}
+.zhong ul{
+    list-style-type: none;
+     margin-top:10px;
+}
+.zhong li{
+    margin-left:20px;
+   font-size:14px;
+   font-weight:bold;
+   line-height: 20px;
+}
+.you{
+    margin-top:70px;
+    height: 160px;
+    width: 190px;
+}
+.you ul{
+    list-style-type: none;
+}
+.you li{
+   font-size:16px;
+   font-weight:bold;
+   line-height: 30px;
+}
+section{
+    width:850px;
+    height:800px;
+     margin:0 auto;
+     background:#cae7ef;
+     overflow:hidden;
+}
+.first{
+    height:200px;
+    width:100%;
+}
+.first h1{
+    color:#72c0cd;
+    margin:30px 0 20px 70px;
+}
+.first ul{
+     margin-left:60px;
+}
+.first ul li{
+    line-height: 30px;
+    font-size:20px;
+}
+.second{
+     height: 320px;
+    width: 850px;
+}
+.second h1{
+    color:#72c0cd;
+    margin:30px 0 20px 70px;
+}
+.skill{
+    height:290px;
+    width:380px;
+    background-image: url("img/1.png");
+    margin-left:20px;
+    float:left;
+}
+.tu{
+    height:300px;
+    width:390px;
+    background: url("img/2.png") no-repeat center;
+    float:right;
+}
+.third h1{
+    color:#72c0cd;
+    margin:30px 0 0 70px;
+}
+.third  ul{
+     margin-left:60px;
+}
+.third  ul li{
+    line-height: 30px;
+    font-size:20px;
+}
+footer{
+    height: 100px;
+    width: 850px;
+    background:#72c0cd;
+    margin:0 auto;
+    font-size:25px;
+}
+footer p{
+    display:block;
+    line-height:100px;
+    margin:0 auto;
+    width:350px;
+}
