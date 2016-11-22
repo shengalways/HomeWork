@@ -1,0 +1,136 @@
+html,body{
+    margin:0;padding: 0;
+}
+header{
+    margin: 0 auto;
+    width:900px;
+    height:120px;
+    border-bottom:1px solid grey;
+}
+header h1{
+    margin: 20px auto;
+    text-align: center;
+    padding-top:30px;
+}
+header div{
+    margin: 0 auto;
+    font-size: 12px;
+    text-align: center;
+}
+section{
+    margin: 0 auto;
+    width: 900px;
+}
+.first{
+    margin: 0 auto;
+    width:860px;
+    height:400px;
+    border-bottom:1px solid grey;
+}
+.first ul{
+    padding-left: 16px;
+}
+.first li{
+    line-height: 30px;
+    font-size: 14px;
+    color:black;
+}
+.first a{
+    text-decoration: none;
+    color:#39e8f8;
+}
+li a:hover{
+    color:red;
+}
+.second{
+    margin: 0 auto;
+    width:860px;
+}
+.second h1{
+    line-height: 60px;
+}
+.second p{
+    font-size: 16px;
+    padding-left: 24px;
+    line-height: 20px;
+}
+.third{
+    margin: 20px auto;
+    padding: 15px 20px;
+    width:820px;
+    height:260px;
+    background: #e2e7e8;
+}
+.fouth{
+    margin: 20px auto;
+    padding: 20px 0;
+    width:860px;
+    height: 30px;
+    border-bottom: 1px solid grey;
+}
+.fouth a{
+    text-decoration:none;
+    color:#39e8f8;
+}
+footer{
+    width: 860px;
+    margin: 0 auto;
+}
+.xia{
+    width: 860px;
+    height:80px;
+    margin-bottom: 15px;
+    border-bottom: 1px solid #39e8f8;
+}
+.good{
+    width: 55px;
+    height:25px;
+    float:left;
+    background: url("./images/zan.png") no-repeat center;
+}
+.xia>div{
+    height:30px;
+}
+.xia p{
+    width:200px;
+    float:left;
+    margin-top:5px;
+    font-size: 12px;
+}
+.three{
+    width: 860px;
+    height:30px;
+    margin-top:30px;
+}
+.three input{
+    display: block;
+    width:280px;
+    float:left;
+    border:0;
+    outline: 0;
+    color: #ced3db;
+}
+textarea{
+    width: 860px;
+    height: 180px;
+}
+.ti{
+    height: 50px;
+    margin-top:10px;
+}
+.ti input{
+    display: block;
+    float: right;
+    width: 120px;
+    height: 36px;
+    background:#3399cc;
+    color:#fff;
+    font-size:14px;
+    border:0;
+}
+footer>input{
+    margin:10px 0;
+}
+footer span{
+    font-size:14px;
+}
