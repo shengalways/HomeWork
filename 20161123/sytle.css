@@ -1,0 +1,89 @@
+html,body{
+    margin: 0;
+    padding: 0;
+}
+form>div{
+    width:800px;
+    height: 106px;
+    border:1px solid #dddddd;
+    margin: 0 auto 64px;
+}
+label{
+    font-size: 26px;
+    line-height: 108px;
+    margin-left:42px;
+}
+input{
+    font-size: 26px;
+    margin-left: 60px;
+    outline: none;
+    border: none;
+}
+.box1 input{
+    margin-left: 70px;
+}
+.box7 input[type="text"]{
+    margin-left: 35px;
+}
+.box4{
+     margin: 0 auto;
+}
+.box5{
+    width:800px;
+    height: 64px;
+    margin: 0 auto;
+    border: none;
+}
+.box5 p{
+    font-size: 26px;
+    display: block;
+    float: right;
+    width:148px;
+    margin: 10px 0;
+}
+.box5 a{
+    color:#3388ff;
+    text-decoration: none;
+}
+.box6>div{
+    width: 222px;
+    height: 94px;
+    background: url("./images/1.png");
+    float: right;
+    margin-top:5px;
+}
+.box7 input[type="submit"]{
+    width: 222px;
+    height: 94px;
+    margin:5px 0;
+    float:right;
+    font-size: 20px;
+}
+.box7 input[type="submit"]:active{
+    background: #b2afaf;
+}
+.box8{
+    border:none;
+    line-height: 50px;
+    font-size: 20px;
+    height: 50px;
+}
+.box8 input{
+    margin: 0 30px 0 0;
+    width: 22px;
+    height: 22px;
+}
+.blue{
+    color:#13a8f3;
+}
+.last{
+    width:800px;
+    height: 106px;
+    background: #f00;
+    margin: 0 auto;
+    color: #fff;
+    font-size:34px;
+}
+.last:active{
+    background: #d32e2e;
+}
