@@ -1,0 +1,238 @@
+html,body,ul,section{
+    margin: 0;
+    padding: 0;
+}
+.clear{
+    clear:both;
+}
+.line{
+    height: 40px;
+    border-bottom: 1px solid #eeeeee;
+    overflow: hidden;
+}
+.tou{
+    width: 1005px;
+    height: 40px;
+    margin: 0 auto;
+}
+.qq{
+    float: left;
+    width: 110px;
+    height: 40px;
+    background: url("./images/qq.png") no-repeat center;
+    margin-top:3px;
+}
+.login{
+    float:left;
+    width: 150px;
+    height: 12px;
+    border-left: 1px solid #cccccc;
+    margin: 17px 0 0 0;
+}
+.login a{
+    font-size: 12px;
+    line-height: 12px;
+    text-decoration: none;
+    display: block;
+    float: left;
+    margin-left: 10px;
+}
+.orange{
+    margin-left: 20px;
+    color: #fc6800;
+}
+.biao{
+    width: 590px;
+    height: 40px;
+    margin-left: 150px;
+    float: left;
+}
+.biao li{
+    float: left;
+    display: block;
+    padding: 0 9px;
+    border-right: 1px solid #cccccc;
+    margin-top:-5px;
+}
+.biao a{
+    color: #000;
+    font:12px/16px "宋体";
+    text-decoration: none;
+}
+.biao .guan{
+     border:none;
+}
+.biao .yao{
+    padding-top:3px;
+}
+.yao a{
+    float: left;
+    display: block;
+}
+.yao div{
+    width: 46px;
+    height: 16px;
+    float: left;
+    background: url("./images/jiang.png") no-repeat center;
+}
+.mi{
+    width: 10px;
+    height: 16px;
+    float: left;
+    background: url("./images/xiao.png") no-repeat center;
+    margin-top: 2px;
+}
+.header2{
+    height: 95px;
+    width: 1005px;
+    margin: 0 auto;
+}
+.logo{
+    height: 95px;
+    width: 235px;
+    background: url("./images/logo.png") no-repeat center;
+    float:left;
+}
+.sousuo{
+    height: 34px;
+    width:490px;
+    border: 3px solid #f87622;
+    float: left;
+    margin: 26px 30px 0 100px;
+}
+.sousuo>div{
+    height: 34px;
+    width:56px;
+    border-right: 1px solid #ebebeb;
+    float: left;
+}
+.sousuo div a{
+    font:12px/34px "微软雅黑";
+    color: #959595;
+    overflow: hidden;
+    margin: 0 auto;
+    text-decoration: none;
+    display: block;
+    text-align: center;
+    background: #f5f5f5;
+}
+input{
+    height: 32px;
+    width:310px;
+    font-size:12px;
+    float: left;
+    display: block;
+    border: 0;
+    outline: none;
+    padding-left: 5px;
+}
+.sousuo>a{
+    height: 34px;
+    width:118px;
+    display: block;
+    font:bold 16px/34px "微软雅黑";
+    color:#fff;
+    float: right;
+    background: #f87622;
+    text-align: center;
+    text-decoration: none;
+}
+.phone{
+    height: 95px;
+    width: 135px;
+    background: url("./images/phone.png") no-repeat center;
+    float: left;
+}
+nav{
+    height: 40px;
+    width: 100%;
+    background: #f87622;
+}
+.nav{
+    height: 40px;
+    width: 1005px;
+    margin: 0 auto;
+}
+.nav a{
+    display: block;
+    line-height: 12px;
+    padding: 14px 18px;
+    color: #fff;
+    float: left;
+    font-size: 12px;
+    text-decoration: none;
+}
+.nav li{
+    display: block;
+    float: left;
+    list-style: none;
+}
+.nav .shang{
+    float: right;
+}
+.nav a:hover{
+    background: #dd4400;
+}
+.all{
+    background: #f1f0ec;
+}
+.s1{
+    width: 1005px;
+    height: 320px;
+    margin: 20px auto;
+    background: #f1f0ec;
+}
+.s1left{
+    width: 580px;
+    height: 320px;
+    background: url("./images/lun.png") no-repeat center;
+    float: left;
+}
+.s1mid{
+    width: 260px;
+    height: 320px;
+    float: left;
+}
+.s1cup{
+    width: 260px;
+    height: 160px;
+    background: url("./images/cup.png") no-repeat center;
+}
+.s1pin{
+    width: 260px;
+    height: 160px;
+    background: url("./images/pin.png") no-repeat center;
+}
+.s1right{
+    width: 150px;
+    height: 320px;
+    float: right;
+}
+.s1righttop{
+    width: 150px;
+    height: 112px;
+    border-bottom: 2px solid #f1f0ec;
+    background: #fafafa;
+}
+.s1righttop .zhu{
+    width: 110px;
+    height: 36px;
+    border-radius: 12px;
+    background: #fe6500;
+    margin: 27px 0 17px 20px;
+}
+.s1righttop .zhu a{
+    font:16px/36px "宋体";
+    display:block;
+    margin: 0 auto;
+    color: #fff;
+}
+.s1rightbottom{
+    width: 150px;
+    height: 206px;
+    background: #fafafa;
+}
+.s1rightbottom>div{
+    width: 150px;
+    height: 68px;
+}
