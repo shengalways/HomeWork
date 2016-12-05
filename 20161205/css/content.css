@@ -1,0 +1,48 @@
+#Content .cate{
+    background: #eee;
+    border-bottom: 1px solid #000;
+    min-height: 64px;
+    text-align: center;
+}
+.cate_title{
+    width: 100%;
+    min-width: 300px;
+    text-align: center;
+    font-size: 40px;
+    line-height: 80px;
+    margin: 0 auto;
+    border-bottom: 1px solid #666;
+}
+#Content .cate_post .post{
+    padding: 20px;
+    margin: 10px;
+    width: 20%;
+    min-width: 200px;
+    max-width: 400px;
+    height: 200px;
+    display: inline-block;
+    vertical-align: top;
+    border: 2px solid #000;
+}
+#Content .cate_post .post a{
+    display: block;
+    width: 100%;
+    color:#790;
+    font:14px/24px "微软雅黑"，"Arial";
+}
+#Content .cate_post .post:hover a{
+    color: #666;
+}
+#Content .cate_post .post_title{
+    display: block;
+    text-align: center;
+}
+#Content .cate_post .post_date{
+    display: block;
+    text-align: center;
+    margin: 40px auto;
+}
+#Content .cate_post .post_exce{
+    display: block;
+    text-align: center;
+}

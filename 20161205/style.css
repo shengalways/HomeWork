@@ -1,0 +1,28 @@
+/*
+Theme Name:Ucai_Blog
+*/
+@import url("./css/nav.css");
+@import url("./css/header.css");
+@import url("./css/content.css");
+@import url("./css/footer.css");
+
+*{
+    transition: all 0.1s;
+}
+html,body,ul,ol,dl,a{
+    font: 12px/12px "sim-sun","Arial";
+    color: #000;
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    text-decoration: none;
+}
+body{
+    padding: 64px 0 0;
+}
+.clear{
+    content: " ";
+    display: block;
+    clear:both;
+}
+/*代码初始化*/
