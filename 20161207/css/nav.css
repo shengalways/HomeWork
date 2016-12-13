@@ -1,0 +1,161 @@
+.nav{
+    width: 1190px;
+    height: 36px;
+    margin: 0 auto;
+}
+.nav-left{
+    width:250px;
+    height: 36px;
+    float: left;
+}
+.nav-left a{
+    line-height: 36px;
+}
+.nav-left .login{
+    color: #ff6537;
+    width: 65px;
+    display: inline-block;
+}
+.nav-left .free{
+    display: inline-block;
+    width: 75px;
+}
+.nav-left a:hover{
+    color: #ff6537; 
+}
+.nav-right{
+    float: right;
+    width: 615px;
+    position: relative;
+}
+.nav-right>ul>li{
+    display: inline-block;
+    line-height: 36px;
+}
+.nav-right .arrow{
+    width: 25px;
+    height: 13px;
+    display: inline-block;
+}
+.nav-right .goods a{
+    padding-right: 15px;
+    border-right: 1px solid #333;
+}
+.nav-right .sale a{
+    padding-left: 15px;
+}
+ .nav-right .li1-{
+    position: absolute;
+    left: 0;
+    top:36px;
+    background: #fff;
+    display: none;
+}
+ .nav-right .li1:hover{
+     background: #fff;
+ }
+.nav-right .li1:hover+.li1-{
+    display: block;
+}
+.nav-right .li2-{
+    position: absolute;
+    left:79px;
+    top:36px;
+    background: #fff;
+    display: none;
+}
+ .nav-right .li2:hover{
+     background: #fff;
+ }
+.nav-right .li2:hover+.li2-{
+    display: block;
+}
+.nav-right .li3-{
+    position: absolute;
+    left: 174px;
+    top:36px;
+    background: #fff;
+    display: none;
+}
+ .nav-right .li3:hover{
+     background: #fff;
+ }
+.nav-right .li3:hover+.li3-{
+    display: block;
+}
+.nav-right .li6-{
+    position: absolute;
+    left: 430px;
+    top:36px;
+    background: #fff;
+    display: none;
+}
+ .nav-right .li6:hover{
+     background: #fff;
+ }
+.nav-right .li6:hover+.li6-{
+    display: block;
+}
+.nav-right .li7-{
+    position: absolute;
+    right: 0;
+    top:36px;
+    z-index: 100;
+    width: 1395px;
+    background: #fff;
+    display: none;
+}
+.special,.ali,.wonderful{
+    width: 315px;
+    float: left;
+    padding: 0 12px;
+    border-right: 1px solid #e7e7e7;
+}
+.theme{
+    width: 350px;
+    border-right: 1px solid #e7e7e7;
+    padding: 0 12px;
+    float: left;
+}
+.theme h3{
+    color: #f35922;
+}
+.special h3{
+    color: #85f087;
+}
+.ali h3{
+    color: #ee50f0;
+}
+.wonderful h3{
+    color: #2f74f2;
+}
+.theme>ul{
+    float: left;
+    width: 86px;
+    margin-top:12px;
+}
+.special>ul,.ali>ul{
+    width: 105px;
+    float: left;
+    margin-top:12px;
+}
+.wonderful>ul{
+    width: 150px;
+    float: left;
+    margin-top:12px;
+}
+.nav-right>ul>li ul li{
+    height: 30px;
+}
+.nav-right>ul>li ul li div{
+    background: url('../images/taobao_13.gif') no-repeat center;
+    width: 10px;
+    height: 15px;
+    margin-left: 30px;
+}
+ .nav-right .li7:hover{
+     background: #fff;
+ }
+.nav-right .li7:hover+.li7-{
+    display: block;
+}

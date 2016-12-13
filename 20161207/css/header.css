@@ -1,0 +1,736 @@
+.header{
+    width: 100%;
+    min-width: 1190px;
+    background: #fff;
+}
+.header-content{
+    width: 1190px;
+    margin: 0 auto;
+    height: 140px;
+    padding-top: 25px;
+}
+.header-left{
+    width: 150px;
+    height: 70px;
+    background: url("../images/taobaoqie.png") no-repeat center;
+    margin: 5px 0 0 10px;
+    float: left;
+}
+.header-center{
+    width: 890px;
+    height: 140px;
+    float: left;
+}
+.header-center1{
+    margin-left: 100px;
+}
+.header-center1 a{
+    display: block;
+    width: 50px;
+    height: 25px;
+    text-align: center;
+    line-height: 25px;
+    color: #ff6537;
+    font-weight: bold;
+    float: left;
+}
+.header-center1 .baobei{
+    background: #ff6537;
+    color: #fff;
+}
+.header-center1 a:hover{
+    background: #f9ccbb;
+}
+.header-center1 .baobei:hover{
+    background: #ff6537;
+}
+.header-center2{
+     margin-left: 100px;
+     width: 630px;
+     height: 34px;
+     border: 2px solid #ff6537;
+     float: left;
+}
+.header-center2 .input{
+    height: 32px;
+    width: 470px;
+    display: block;
+    float: left;
+    background: url("../images/tb_03_03.png") no-repeat 9px 9px;
+    outline: none;
+    border: 0;
+}
+.header-center2 #camera{
+    display:none;
+}
+.header-center2 label{
+    height: 32px;
+    width: 32px;
+    display: block;
+    float: left;
+    background: url("../images/tb1_05.png") no-repeat center;
+    cursor: pointer;
+}
+.header-center2 label:hover{
+    background: url("../images/112_03.png") no-repeat center;
+}
+.header-center2 .sousuo{
+    width: 128px;
+    height: 34px;
+    font-size: 20px;
+    line-height: 34px;
+    text-align: center;
+    font-weight: bold;
+    color: #fff;
+    background:  #ff6537;
+    float: left;
+    cursor: pointer;
+}
+.header-center2 .sousuo:hover{
+    background: #f9410a;
+}
+.senior{
+    font-size: 14px;
+    margin-left: 5px;
+    width: 43px;
+    height: 38px;
+    float: left;
+    line-height: 18px;
+    cursor: pointer;
+}
+.senior:hover{
+    color: #ff6537;
+}
+.header-center3{
+     margin-left: 100px;
+     width: 630px;
+     height: 34px;
+     line-height: 34px;
+}
+.header-center3 a{
+    display: inline-block;
+    padding: 0 2px;
+}
+.header-center3 a:hover{
+    color: #ff6537;
+    
+}
+.header-center3 .shirt{
+    color: #ff6537;
+}
+.header-center3 .more{
+    padding:0 0 0 71px;
+}
+.header-center4 a{
+    font:bold 16px/16px "宋体";
+    padding:8px;;
+}
+.header-center4 a:hover{
+    background: #ff6537;
+    color: #fff;
+    border-radius: 20px;
+}
+.header-center4 li{
+    display: inline-block;
+}
+.header-center4{
+    margin:15px 0 0 40px;
+}
+.header-center4 .color a{
+    color: #ff6537;
+}
+.header-center4 .color a:hover{
+    background: #ff6537;
+    color: #fff;
+    border-radius: 20px;
+}
+.header-right .picture{
+    width: 80px;
+    height: 80px;
+    background: url("../images/TB1h3IXGFXXXXXsXFXXDANtWXXX-175-175.png") no-repeat center;
+    margin-left: 9px;
+}
+.header-right{
+    float: right;
+    height: 112px;
+    width: 98px;
+    border: 1px solid #e1d9d6;
+}
+.header-right p{
+    margin: 4px auto;
+    text-align: center;
+    color: #ff6537;
+}
+.banner{
+    width: 1190px;
+    height: 614px;
+    margin: 0 auto;
+    position: relative;
+}
+.banner-left{
+    width:890px;
+    height: 614px;
+    float: left;
+}
+.banner-left-top{
+    width:890px;
+    height: 524px;
+}
+.banner-nav{
+    width: 190px;
+    height: 555px;
+    background: #ff6537;
+    position: absolute;
+    top: -34px;
+    left: 0;
+}
+.navtitle{
+    color: #fff;
+    font-size: 16px;
+    width: 155px;
+    padding: 15px 15px 10px 12px;
+    background:  url("../images/tb12_18.png") no-repeat right;
+}
+.nav1{
+    height: 20px;
+    padding: 5px 5px 5px 10px;
+    color: #fff;
+}
+.nav1 .pic{
+    width: 18px;
+    height: 18px;
+    display: block;
+    float: left;
+}
+.nav1 p{
+    padding-bottom: 3px;
+    display:block;
+    float: left;
+    margin: 3px 0  0 5px;
+    
+}
+.nav1 a{
+    color: #fff;
+    margin: 0 5px;
+    font-weight: bold;
+}
+.nav1 span{
+    display: inline-block;
+    margin-left: 25px;
+}
+.banner-nav .pic1{
+    background: url("../images/tblist_22.png") no-repeat center;
+}
+.banner-nav .pic2{
+    background: url("../images/tblist_30.png") no-repeat center;
+}
+.banner-nav .pic3{
+    background: url("../images/tblist_34.png") no-repeat center;
+}
+.banner-nav .pic4{
+    background: url("../images/tblist_37.png") no-repeat center;
+}
+.banner-nav .pic5{
+    background: url("../images/tblist_40.png") no-repeat center;
+}
+.banner-nav .pic6{
+    background: url("../images/tblist_43.png") no-repeat center;
+}
+.banner-nav .pic7{
+    background: url("../images/tblist_45.png") no-repeat center;
+}
+.banner-nav .pic8{
+    background: url("../images/tblist_47.png") no-repeat center;
+}
+.banner-nav .pic9{
+    background: url("../images/tblist_50.png") no-repeat center;
+}
+.banner-nav .pic10{
+    background: url("../images/tblist_53.png") no-repeat center;
+}
+.banner-nav .pic11{
+    background: url("../images/tblist_55.png") no-repeat center;
+}
+.banner-nav .pic12{
+    background: url("../images/tblist_58.png") no-repeat center;
+}
+.banner-nav .pic13{
+    background: url("../images/tblist_60.png") no-repeat center;
+}
+.banner-nav .pic14{
+    background: url("../images/tblist_63.png") no-repeat center;
+}
+.banner-nav .pic15{
+    background: url("../images/tblist_66.png") no-repeat center;
+}
+.banner-nav .pic16{
+    background: url("../images/tblist_68.png") no-repeat center;
+}
+.nav1:hover{
+    background: #f9410a;
+}
+.nav1-1:hover .pic1{
+    background: url("../images/1.png") no-repeat center;
+}
+.nav1-2:hover .pic2{
+    background: url("../images/2.png") no-repeat center;
+}
+.nav1-3:hover .pic3{
+    background: url("../images/3.png") no-repeat center;
+}
+.nav1-4:hover .pic4{
+    background: url("../images/4.png") no-repeat center;
+}
+.nav1-5:hover .pic5{
+    background: url("../images/5.png") no-repeat center;
+}
+.nav1-6:hover .pic6{
+    background: url("../images/6.png") no-repeat center;
+}
+.nav1-7:hover .pic7{
+    background: url("../images/7.png") no-repeat center;
+}
+.nav1-8:hover .pic8{
+    background: url("../images/8.png") no-repeat center;
+}
+.nav1-9:hover .pic9{
+    background: url("../images/9.png") no-repeat center;
+}
+.nav1-10:hover .pic10{
+    background: url("../images/10.png") no-repeat center;
+}
+.nav1-11:hover .pic11{
+    background: url("../images/11.png") no-repeat center;
+}
+.nav1-12:hover .pic12{
+    background: url("../images/12.png") no-repeat center;
+}
+.nav1-13:hover .pic13{
+    background: url("../images/13.png") no-repeat center;
+}
+.nav1-14:hover .pic14{
+    background: url("../images/14.png") no-repeat center;
+}
+.nav1-15:hover .pic15{
+    background: url("../images/15.png") no-repeat center;
+}
+.nav1-16:hover .pic16{
+    background: url("../images/16.png") no-repeat center;
+}
+.nav1 a:hover{
+    border-bottom: 2px solid #fff;
+}
+.navfooter{
+    width: 190px;
+    height: 40px;
+    background: url("../images/taobao_04.jpg") no-repeat center;
+    background-size: contain;
+}
+.open{
+    width: 700px;
+    height: 519px;
+    position: absolute;
+    left: 190px;
+    top:34px;
+    z-index: 10px;
+    border: 2px solid #bd012e;
+    display: none;
+}
+.nav1:hover .open{
+    display: block;
+}
+.banner-top-center{
+    height: 510px;
+    width: 520px;
+    margin: 10px 0 0 200px;
+    float: left;
+}
+.banner-hp{
+    width: 520px;
+    height: 280px;
+}
+.banner-title{
+    width: 520px;
+    height: 20px;
+    margin-top: 8px;
+}
+.black-cat{
+    background: url("../images/49-17.gif") no-repeat center;
+    height: 20px;
+    width: 45px;
+    float: left;
+}
+.cat1{
+    font-size: 16px;
+    font-weight: bold;
+    float: left;
+    width: 70px;
+    padding-top: 5px;
+}
+.cat2{
+    float: left;
+    width: 140px;
+    padding-top: 5px;
+}
+.cat3{
+    float: right;
+    width: 20px;
+    padding-top: 5px;
+}
+.cat3 .font1{
+    color: #bd012e;
+    
+}
+.banner-top-center hr{
+    width: 475px;
+    margin-left: 42px;
+    border:1px solid #bd012e;
+}
+.banner-content>div{
+    width: 172px;
+    height: 100px;
+    float: left;
+    background-size: cover !important;
+}
+.picture1,.picture2{
+    border-right: 1px solid #999;
+    border-bottom: 1px solid #999;
+}
+.picture3{
+    border-bottom: 1px solid #999;
+}
+.picture4,.picture5{
+    border-right: 1px solid #999;
+}
+.banner-top-right{
+    height: 510px;
+    width: 160px;
+    float: right;
+}
+.banner-top-right .banner-51{
+    width: 160px;
+    height: 280px;
+    background-size:contain !important;
+    margin-top: 10px;
+}
+.banner-top-right .banner-watch{
+    width: 160px;
+    height: 200px;
+    background-size:contain !important;
+}
+.banner-top-right .banner-hot{
+    width: 160px;
+    height: 20px;
+    color: #999;
+    margin-top: 14px;
+}
+.banner-left-bottom{
+    width: 890px;
+    height: 76px;
+    background: #fff;
+    margin-top: 10px;
+}
+.banner-left-bottom>div{
+    width: 170px;
+    height: 70px;
+    float: left;
+    padding: 6px 0 0 8px;
+}
+.banner-left-bottom>div .img{
+    width: 65px;
+    height: 65px;
+    border-radius: 50%;
+    border: 1px solid #888;
+    float: left;
+    margin-right: 8px;
+    background-size:contain !important;
+}
+.banner-left-bottom>div .img:hover{
+    opacity: 0.7;
+}
+.banner-left-bottom p{
+    font-size: 16px;
+    line-height: 20px;
+}
+.fontbox1 p{
+    color: #92715e;
+}
+.fontbox2 p{
+    color: #40e77f;
+}
+.fontbox3 p{
+    color: #64b1e6;
+}
+.fontbox4 p{
+    color: #b164e6;
+}
+.fontbox5 p{
+    color: #ed8d26;
+}
+.banner-left-bottom p span{
+    font-size: 12px;
+}
+.fire{
+    margin: 5px 0 0 -2px;
+    width: 89px;
+    float: left;
+}
+.fire div{
+    width: 16px;
+    height: 16px;
+    float: left;
+    background: url("../images/11222_03.png") no-repeat center;
+}
+.fire span{
+    display: block;
+    float: left;
+    height: 16px;
+    font-size: 12px;
+    color: #888;
+    margin-top: 2px;
+}
+.banner-right{
+    width: 290px;
+    height: 600px;
+    float: left;
+    margin: 10px 0 0 10px;
+}
+.banner-right1{
+    height: 155px;
+    width: 290px;
+    background: #fff url("../images/bg_01.jpg") no-repeat center;
+    padding-top: 10px;
+}
+.banner-right1-1{
+    width: 65px;
+    height: 65px;
+    margin: 0 auto;
+    border-radius: 50%;
+    background: url("../images/taobao_02.jpg") no-repeat center;
+    background-size: contain;
+}
+.banner-right1-2{
+    text-align: center;
+    margin: 8px;
+}
+.banner-right1-3{
+    width: 190px;
+    height: 18px;
+    margin: 0 auto 4px;
+}
+.banner-right1-3 div{
+    width: 18px;
+    height: 18px;
+    background: url("../images/taobao_27.png") no-repeat center;
+    float: left;
+    border-radius: 50%;
+}
+.banner-right1-3 p{
+    width: 165px;
+    height: 18px;
+    float: left;
+    display: block;
+    padding-top: 3px;
+}
+.banner-right1-3 p a{
+    color: #ff6537;
+    font-weight: bold;
+}
+.banner-right1-4{
+    text-align: center;
+}
+.banner-right1-4 a{
+    display: inline-block;
+    background: #ff6537;
+    color: #fff;
+    font-size: 14px;
+    font-weight: bold;
+    padding: 5px 20px;
+}
+.banner-right1-4 a:hover{
+    background: #f9410a;
+}
+.banner-right2{
+    width: 290px;
+    height: 108px;
+    background: #fff;
+    margin: 2px 0 1px 0;
+}
+.banner-right2>div{
+    width: 290px;
+    height: 33px;
+    text-align: center;
+    padding-top: 15px;
+}
+.banner-right2>div>a{
+    display: inline-block;
+    padding: 4px 8px;
+    margin: 0 7px;
+}
+.banner-right2>a{
+    display: block;
+    height: 24px;
+    margin-left: 20px;
+}
+.banner-right2>div>a:hover{
+    border-bottom: 2px solid #ff6537;
+    font-weight: bold;
+}
+.banner-right2>.color{
+    color: #ff6537;
+}
+.banner-right3{
+    width: 290px;
+    height: 204px;
+}
+.banner-right3>a>div{
+    width: 70px;
+    height: 66px;
+    margin: 1px;
+    background: #fff;
+    float: left;
+}
+.banner-right3>a>div:hover span{
+    color: #ff6537;
+}
+.banner-right3 .plusleft{
+    margin-left: 0 !important;
+    width: 72px !important;
+}
+.banner-right3 .plusright{
+    margin-right: 0 !important;
+    width: 72px !important;
+}
+.banner-right3>a>div>div{
+    height: 30px;
+    width: 30px;
+    background-size: contain !important;
+    margin: 9px auto;
+}
+.banner-right3>a>div>span{
+    display: block;
+    width: 70px;
+    text-align: center;
+}
+.banner-right4{
+    height: 110px;
+    width: 290px;
+    padding-top:10px;
+    background: #fff;
+}
+.banner-right4-1{
+    height: 20px;
+    width: 275px;
+    font-size: 15px;
+    font-weight: bold;
+    padding-left: 15px;
+}
+.banner-right4-1 a{
+    font:12px/12px "宋体";
+    display: block;
+    float: right;
+    width: 39px;
+}
+.banner-right4-1 a:hover{
+    color: #ff6537;
+}
+.banner-right4-2{
+   padding-left: 5px; 
+   position: relative;
+}
+.banner-right4-2>a>div{
+    width: 32px;
+    height: 32px;
+    background-size: contain !important; 
+    float: left;
+    margin: 4px 12px;
+}
+.banner-right4-2>a>span{
+    height: 100px;
+    width: 80px;
+    display: none;
+    background:  #fff url("../images/taobao_77.jpg") no-repeat center;
+    background-size: contain;
+    border: 1px solid #888;
+}
+.banner-right4-2>a>.span1{
+    position: absolute;
+    left: -10px;
+    top:-100px; 
+}
+.banner-right4-2>a>.span2{
+    position: absolute;
+    left: 47px;
+    top:-100px;
+}
+.banner-right4-2>a>.span3{
+    position: absolute;
+    left: 103px;
+    top:-100px;
+}
+.banner-right4-2>a>.span4{
+    position: absolute;
+    left: 160px;
+    top:-100px;
+}
+.banner-right4-2>a>.span5{
+    position: absolute;
+    left: 217px;
+    top:-100px;
+}
+.banner-right4-2>a>.span6{
+    position: absolute;
+    left: -10px;
+    top:-60px;
+}
+.banner-right4-2>a>.span7{
+    position: absolute;
+    left: 47px;
+    top:-60px;
+}
+.banner-right4-2>a>.span8{
+    position: absolute;
+    left: 103px;
+    top:-60px;
+}
+.banner-right4-2>a>.span9{
+    position: absolute;
+    left: 160px;
+    top:-60px;
+}
+.banner-right4-2>a>.span10{
+    position: absolute;
+    left: 217px;
+    top:-60px;
+}
+.banner-right4-2>a>.div1:hover+.span1{
+    display: block;
+}
+.banner-right4-2>a>.div2:hover+.span2{
+    display: block;
+}
+.banner-right4-2>a>.div3:hover+.span3{
+    display: block;
+}
+.banner-right4-2>a>.div4:hover+.span4{
+    display: block;
+}
+.banner-right4-2>a>.div5:hover+.span5{
+    display: block;
+}
+.banner-right4-2>a>.div6:hover+.span6{
+    display: block;
+}
+.banner-right4-2>a>.div7:hover+.span7{
+    display: block;
+}
+.banner-right4-2>a>.div8:hover+.span8{
+    display: block;
+}
+.banner-right4-2>a>.div9:hover+.span9{
+    display: block;
+}
+.banner-right4-2>a>.div10:hover+.span10{
+    display: block;
+}
+

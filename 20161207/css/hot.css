@@ -1,0 +1,627 @@
+.hotcontent{
+    width: 1190px;
+    background: #fff;
+    margin: 0 auto;
+}
+.hot-title{
+    width: 236px;
+    height: 35px;
+    margin: 0 auto;
+    padding-top: 15px;
+}
+.hot-title hr{
+    width: 62px;
+    float: left;
+    margin-top: 8px;
+}
+.hot-title div{
+    height: 20px;
+    width: 20px;
+    background: url("../images/TB1ydzVMXXXXXXtXpXXwu0bFXXX.png") no-repeat center;
+    float: left;
+    margin-left: 3px;
+}
+.hot-title span{
+    display: block;
+    height: 20px;
+    width: 80px;
+    font-weight: bold;
+    font-size: 18px;
+    float: left;
+    margin: 4px 2px 0 3px;
+}
+.hot-nav{
+    padding:0 0 10px 14px;
+}
+.hot-nav li{
+    list-style-type: none;
+    float: left;
+}
+.hot-nav a{
+    font-size: 12px;
+    padding: 0 9px;
+    display: block;
+    border-right: 1px solid #999;
+    float: left;
+}
+.hot-nav a:hover{
+    color: #ff6537;
+}
+.hot-main{
+    width: 1190px;
+}
+.hot-main-left{
+    width: 395px;
+    height: 555px;
+    float: left;
+    background: #fff;
+}
+.hot-left-top>div{
+    width: 210px;
+    height: 378px;
+    float: left;
+    border: 1px solid #999;
+    padding: 10px;
+    position: relative;
+}
+.hot-left-top>div:hover{
+    border: 1px solid rgba(255, 0, 0,1);
+}
+.hot-left-top>div>div{
+    width: 210px;
+    height: 190px;
+    margin-bottom: 15px;
+    background-size: contain !important;
+    background: url("../images/TB24..HmFXXXXarXpXXXXXXXXXX_!!0-saturn_solar.jpg_250x250.jpg") no-repeat center; 
+}
+.hot-left-top>div>a>span{
+    color: #ff6537;
+    font-weight: bold;
+}
+.hot-left-top>div>a>.hot-baoyou{
+    display: inline-block;
+    padding: 1px 2px;
+    background: #97ca63;
+    color: #fff;
+    margin-right: 3px;
+}
+.hot-left-top>div>p{
+    font-size: 14px;
+    line-height: 20px;
+    margin: 30px 0 65px;
+}
+.hot-left-top>div>span{
+    display: block;
+    font-size: 12px;
+    color: #999;
+}
+.hot-left-top>div>.orange{
+    width: 230px;
+    height: 200px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background: #ff6537;
+    display: none;
+}
+.hot-left-top>div>.orange p{
+    color: #fff;
+    font-size: 14px;
+    margin: 130px 0 15px 10px;
+}
+.hot-left-top>div>.orange div{
+    width: 100px;
+    height: 24px;
+    font-size: 12px;
+    color: #ff6537;
+    background: #fff;
+    border-radius: 5px;
+    text-align: center;
+    line-height: 24px;
+    margin-left: 10px;
+}
+.hot-left-top>div:hover .orange{
+    display: block;
+}
+
+.hot-left-top>span{
+    display: block;
+    float: right;
+    width: 163px;
+    height: 398px;
+}
+.hot-left-top>span>div{
+    width: 141px;
+    height: 178px;
+    border: 1px solid #999;
+    padding: 10px;
+    position: relative;
+}
+.hot-left-top>span>div .orange{
+    width: 161px;
+    height: 150px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background: #ff6537;
+    display: none;
+}
+.hot-left-top>span>div .orange p{
+    color: #fff;
+    font-size: 14px;
+    margin: 80px 0 15px 10px;
+}
+.hot-left-top>span>div .orange div{
+    width: 100px;
+    height: 24px;
+    font-size: 12px;
+    color: #ff6537;
+    background: #fff;
+    border-radius: 5px;
+    text-align: center;
+    line-height: 24px;
+    margin-left: 10px;
+}
+.hot-left-top>span>div:hover .orange{
+    display: block;
+}
+
+.hot-left-top>span>div:hover{
+    border: 1px solid rgba(255, 0, 0, 1);
+}
+.hot-left-top>span>span{
+    display: block;
+    width: 141px;
+    height: 177px;
+    border:1px solid #999;
+    padding: 10px;
+}
+.hot-left-top>span>span:hover{
+    border: 1px solid rgba(255, 0, 0, 1);
+}
+.hot-left-top>span>div>div{
+    width: 141px;
+    height: 140px;
+    background: url("../images/TB24..HmFXXXXarXpXXXXXXXXXX_!!0-saturn_solar.jpg_250x250.jpg") no-repeat center; 
+    background-size: contain !important;
+    margin-bottom: 6px;
+}
+.hot-left-top>span>div>a{
+    font-size: 12px;
+    line-height: 16px;
+}
+.hot-left-top>span>div>a>span{
+    color: #ff6537;
+    font-weight: bold;
+}
+.hot-left-top>span>div>a>.hot-baoyou{
+    display: inline-block;
+    padding: 1px 2px;
+    background: #97ca63;
+    color: #fff;
+    margin-right: 3px;
+}
+
+
+.hot-left-top>span>span>div{
+    width: 141px;
+    height: 140px;
+    background: url("../images/TB24..HmFXXXXarXpXXXXXXXXXX_!!0-saturn_solar.jpg_250x250.jpg") no-repeat center; 
+    background-size: contain !important;
+    margin-bottom: 6px;
+}
+.hot-left-top>span>span>a{
+    font-size: 12px;
+    line-height: 16px;
+}
+.hot-left-top>span>span>a>span{
+    color: #ff6537;
+    font-weight: bold;
+}
+.hot-left-top>span>span>a>.hot-baoyou{
+    display: inline-block;
+    padding: 1px 2px;
+    background: #ff6537;
+    color: #fff;
+    margin-right: 3px;
+}
+#cheng{
+    display: inline-block;
+    padding: 1px 2px;
+    background: #ff6537;
+    color: #fff;
+    margin-right: 3px;
+}
+.hot-left-bottom{
+    width: 373px;
+    padding: 10px;
+    height: 136px;
+    background: url("../images/TB1o6.jpg") no-repeat center; 
+    background-size: cover !important;
+    background-clip: content-box !important;
+    border-right: 1px solid #999;
+    border-left: 1px solid rgba(255, 0, 0, 0);
+    border-bottom: 1px solid rgba(255, 0, 0, 0);
+    border-top: 1px solid rgba(255, 0, 0, 0);
+}
+.hot-left-bottom:hover{
+    border: 1px solid rgba(255, 0, 0, 1);
+}
+.hot-center-bottom{
+    background: url("../images/TB19NrWMpXXXXarXpXXSutbFXXX.jpg") no-repeat center; 
+}
+.hot-right-bottom{
+    background: url("../images/TB1ae4MMFXXXXahXFXX2kLU.png") no-repeat center; 
+}
+
+/*热卖到此结束*/
+
+.guess{
+    width: 1190px;
+    background: #fff;
+    margin: 20px auto;
+}
+.guess>.hot-title>div{
+    background: url("../images/tbyl_134.png") no-repeat center; 
+}
+.guess-main{
+    width: 1190px;
+    padding-left: 18px;
+}
+.guess-box{
+    width: 222px;
+    height: 300px;
+    float: left;
+    margin:0 8px 27px 0;
+    border: 1px solid rgba(255, 0, 0, 0);
+    position: relative;
+    background: #f5f5f5;
+}
+.guess-picturebox{
+    width: 222px;
+    height: 220px;
+    background-size: cover !important;
+}
+.guess-box>p{
+    font-size: 12px;
+    line-height: 18px;
+    color: #333;
+    padding:5px 10px 0;
+}
+.guess-bottom{
+    width: 222px;
+    font-size: 12px;
+    color: #999;
+}
+.guess-bottom>span{
+    color: #ff6537;
+    font-weight: bold;
+    display: inline-block;
+    margin: 15px 60px 0 10px;
+}
+.little-hot{
+    width: 33px;
+    height: 15px;
+    background: #ff6537;
+    color: #fff;
+    display: inline-block;
+    margin-left: 10px;
+    text-align: center;
+    line-height: 17px;
+}
+.guess-anotherbox{
+    width: 222px;
+    height: 300px;
+    position: absolute;
+    top:0;
+    left: 0;
+    cursor: pointer;
+    display: none;
+}
+.anotherbox-top{
+    width: 222px;
+    height: 220px;
+    background: #e8e7e7;
+    opacity: 0.3
+}
+.anotherbox-bottom{
+    height: 50px;
+    width: 222px;
+    background: #ff6537;
+    padding-top: 30px;
+}
+.anotherbox-bottom p{
+    font-size: 18px;
+    color: #fff;
+    text-align: center;
+}
+.anotherbox-bottom hr{
+    width: 130px;
+    margin: 5px auto;
+    border: 0;
+    border-bottom: 1px solid #999;
+}
+.anotherbox-bottom div{
+    color: #fff;
+    text-align: center;
+    font-size: 12px;
+}
+.guess-box:hover .guess-anotherbox{
+    display: block;
+}
+.guess-box:hover{
+    border: 1px solid rgba(255, 0, 0, 1);
+}
+.guess-picture1{
+    background:url("../images/TB18yo9JpXXXXaHXVXXXXXXXXXX_!!0-item_pic.jpg_250x250.jpg") no-repeat center; 
+}
+.guess-picture2{
+    background:url("../images/taobao_08.jpg") no-repeat center; 
+}
+.guess-picture3{
+    background:url("../images/taobao_09.jpg") no-repeat center; 
+}
+.guess-picture4{
+    background:url("../images/taobao_14.jpg") no-repeat center; 
+}
+.guess-picture5{
+    background:url("../images/taobao_16.jpg") no-repeat center; 
+}
+.guess-picture6{
+    background:url("../images/taobao_19.jpg") no-repeat center; 
+}
+.guess-picture7{
+    background:url("../images/taobao_23.jpg") no-repeat center; 
+}
+.guess-picture8{
+    background:url("../images/taobao_32.jpg") no-repeat center; 
+}
+.guess-picture9{
+    background:url("../images/taobao_37.jpg") no-repeat center; 
+}
+.guess-picture10{
+    background:url("../images/taobao_38.jpg") no-repeat center; 
+}
+.guess-picture11{
+    background:url("../images/taobao_43.jpg") no-repeat center; 
+}
+.guess-picture12{
+    background:url("../images/taobao_45.jpg") no-repeat center; 
+}
+.guess-picture13{
+    background:url("../images/taobao_46.jpg") no-repeat center; 
+}
+.guess-picture14{
+    background:url("../images/taobao_47.jpg") no-repeat center; 
+}
+.guess-picture15{
+    background:url("../images/taobao_48.jpg") no-repeat center; 
+}
+.guess-picture16{
+    background:url("../images/taobao_49.jpg") no-repeat center; 
+}
+.guess-picture17{
+    background:url("../images/taobao_50.jpg") no-repeat center; 
+}
+.guess-picture18{
+    background:url("../images/taobao_53.jpg") no-repeat center; 
+}
+.guess-picture19{
+    background:url("../images/taobao_55.jpg") no-repeat center; 
+}
+.guess-picture20{
+    background:url("../images/taobao_57.jpg") no-repeat center; 
+}
+.guess-picture21{
+    background:url("../images/taobao_59.jpg") no-repeat center; 
+}
+.guess-picture22{
+    background:url("../images/taobao_58.jpg") no-repeat center; 
+}
+.guess-picture23{
+    background:url("../images/taobao_62.jpg") no-repeat center; 
+}
+.guess-picture24{
+    background:url("../images/taobao_08.jpg") no-repeat center; 
+}
+.guess-picture25{
+    background:url("../images/taobao_64.jpg") no-repeat center; 
+}
+.guess-picture26{
+    background:url("../images/taobao_67.jpg") no-repeat center; 
+}
+.guess-picture27{
+    background:url("../images/taobao_70.jpg") no-repeat center; 
+}
+.guess-picture28{
+    background:url("../images/taobao_71.jpg") no-repeat center; 
+}
+.guess-picture29{
+    background:url("../images/taobao_72.jpg") no-repeat center; 
+}
+.guess-picture30{
+    background:url("../images/taobao_73.jpg") no-repeat center; 
+}
+.guess-picture31{
+    background:url("../images/taobao_81.jpg") no-repeat center; 
+}
+.guess-picture32{
+    background:url("../images/TB1_2wNKpXXXXc6XVXXXXXXXXXX-120-120.jpg") no-repeat center; 
+}
+.guess-picture33{
+    background:url("../images/TB1aes0JpXXXXanXpXXuAZJYXXX-180-180.png_120x120.jpg") no-repeat center; 
+}
+.guess-picture34{
+    background:url("../images/TB1affAMXXXXXceXVXXXXXXXXXX-200-200.jpg_120x120.jpg") no-repeat center; 
+}
+.guess-picture35{
+    background:url("../images/TB1cgZXKFXXXXcRXXXXYXGcGpXX_M2.SS2_200x200.jpg") no-repeat center; 
+}
+.guess-picture36{
+    background:url("../images/TB1EmJJLXXXXXa_XpXXXXXXXXXX_!!0-item_pic.jpg_250x250.jpg") no-repeat center; 
+}
+.guess-picture37{
+    background:url("../images/TB1FC3cLVXXXXbKXXXXXXXXXXXX-300-300.jpg_120x120.jpg") no-repeat center; 
+}
+.guess-picture38{
+    background:url("../images/TB1fzPdLFXXXXXNapXXNx3t4VXX-120-120.jpg") no-repeat center; 
+}
+.guess-picture39{
+    background:url("../images/TB1gUzyIpXXXXbzXFXXNx3t4VXX-120-120.jpg_120x120.jpg") no-repeat center; 
+}
+.guess-picture40{
+    background:url("../images/TB1iicCJpXXXXaHaXXXuAZJYXXX-180-180.png_120x120.jpg") no-repeat center; 
+}
+
+
+.footer{
+    width: 1190px;
+    margin: 0 auto;
+    padding: 30px 0 20px;
+}
+.footer1{
+    width: 1190px;
+    height: 150px;
+}
+.footer1>div{
+    width: 277px;
+    height: 150px;
+    float: left;
+    padding: 0 0 0 20px;
+}
+.footer1box>div{
+    width: 277px;
+    height: 40px;
+    font-size: 18px;
+    font-weight: bold;
+    line-height: 40px;
+}
+.footer1box>p{
+    font-size: 12px;
+    color: #999;
+    line-height: 20px;
+    width: 198px;
+    margin: 15px 0 0 7px;
+    word-spacing: 24px;
+}
+.footer1box>p:hover{
+    color: #ff6537;
+}
+.footer1box>div>span{
+    display: block;
+    float: left;
+    width: 40px;
+    height: 40px;
+}
+.footer1-1>div>span{
+    background:url("../images/taobao_06.gif") no-repeat center; 
+}
+.footer1-2>div>span{
+    background:url("../images/taobao_08.gif") no-repeat center; 
+}
+.footer1-3>div>span{
+    background:url("../images/taobao_10.gif") no-repeat center; 
+}
+.footer1-4>div>span{
+    background:url("../images/taobao_03.gif") no-repeat center; 
+}
+.footer2{
+    width: 1190px;
+    height: 2px;
+    background: #ff6537;
+}
+.footer3 li{
+    list-style-type: none;
+    float: left;
+    padding: 6px 0;
+}
+.footer3 li a{
+    text-decoration: none;
+    border-right: 1px solid #999;
+    display: block;
+    float: left;
+    font-size: 12px;
+    padding: 0 11px;
+}
+.footer3 li a:hover{
+    color: #ff6537;
+}
+.footer3 .nopadding a{
+    padding-left: 0;
+}
+.footer3{
+    padding: 10px 0;
+    border-bottom: 1px solid #999;
+    margin-bottom: 10px;
+}
+.footer4-1{
+    font-size: 12px;
+    word-spacing: 10px;
+    cursor: pointer;
+}
+.footer4-2{
+    font-size: 12px;
+    cursor: pointer;
+    color: #999;
+    display: inline-block;
+    padding-left: 70px;
+}
+.footer5{
+    margin: 12px 0;
+}
+.footer6{
+    width: 1190px;
+}
+.footer6>a{
+    margin-right: 20px;
+}
+.footer-picture1{
+    width: 37px;
+    height: 37px;
+    display: inline-block;
+    background: url("https://img.alicdn.com/tps/TB1rMe2KVXXXXXpapXXXXXXXXXX-857-35.jpg") no-repeat 0 top;
+}
+.footer-picture2{
+    width: 40px;
+    height: 37px;
+    display: inline-block;
+    background: url("https://img.alicdn.com/tps/TB1rMe2KVXXXXXpapXXXXXXXXXX-857-35.jpg") no-repeat -36px top;
+}
+.footer-picture3{
+    width: 57px;
+    height: 37px;
+    display: inline-block;
+    background: url('https://img.alicdn.com/tps/TB1rMe2KVXXXXXpapXXXXXXXXXX-857-35.jpg') no-repeat -78px top;
+}
+.footer-picture4{
+    width: 86px;
+    height: 37px;
+    display: inline-block;
+    background: url("https://img.alicdn.com/tps/TB1rMe2KVXXXXXpapXXXXXXXXXX-857-35.jpg") no-repeat -139px top;
+}
+.footer-picture5{
+    width: 95px;
+    height: 37px;
+    display: inline-block;
+    background: url("https://img.alicdn.com/tps/TB1rMe2KVXXXXXpapXXXXXXXXXX-857-35.jpg") no-repeat -241px top;
+}
+.footer-picture6{
+    width: 218px;
+    height: 37px;
+    display: inline-block;
+    background: url("https://img.alicdn.com/tps/TB1rMe2KVXXXXXpapXXXXXXXXXX-857-35.jpg") no-repeat -345px top;
+}
+.footer-picture7{
+    width: 193px;
+    height: 37px;
+    display: inline-block;
+    background: url("https://img.alicdn.com/tps/TB1rMe2KVXXXXXpapXXXXXXXXXX-857-35.jpg") no-repeat -566px top;
+}
+.footer-picture8{
+    width: 100px;
+    height: 37px;
+    display: inline-block;
+    background: url("https://img.alicdn.com/tps/TB1rMe2KVXXXXXpapXXXXXXXXXX-857-35.jpg") no-repeat -759px top;
+}
+
+
